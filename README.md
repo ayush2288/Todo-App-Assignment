@@ -72,28 +72,29 @@ This is a simple Todo application built using Django. It includes basic CRUD ope
 
 ### Home Screen
 This is how the home screen looks:
-![Screenshot (891)](https://github.com/user-attachments/assets/97c43437-f2b2-4ed3-a0fb-fc466d9cd53e)
+![Screenshot (891)](https://github.com/user-attachments/assets/c9a98f16-ac33-4ad9-b699-d6dc9c168310)
 
 
 ### Add a New Task
 Click on the "Add New Task" button on the homepage, fill out the title and description, then submit the form.
-![Screenshot (892)](https://github.com/user-attachments/assets/9863aabb-e263-4a15-a712-576dee21d02f)
+![Screenshot (892)](https://github.com/user-attachments/assets/89f2db3e-2808-4590-82d4-6d4c1dc8bcf5)
+
 
 
 ### Error Handling
 If the title or description is empty or not filled, an error will be displayed.
-![Screenshot (894)](https://github.com/user-attachments/assets/2e75c61d-0570-44be-a3bb-28ea4ee8f6d4)
+![Screenshot (894)](https://github.com/user-attachments/assets/b820fd96-c5e0-4fb3-b00b-b9b79a76c083)
+
 
 
 ### Update a Task
 Click on a task's title to update its details.
-![Screenshot (893)](https://github.com/user-attachments/assets/525489b4-0d67-4a19-8279-fddc35884c5c)
+![Screenshot (893)](https://github.com/user-attachments/assets/693b8ae1-067e-4e27-a1a4-d519f3e03f4c)
 
 
 ### Delete a Task
 Click the trash icon next to a task to delete it.
-![Screenshot (895)](https://github.com/user-attachments/assets/ce6c5be4-ddb0-4629-a230-c74ddfa6cc4d)
-
+![Screenshot (895)](https://github.com/user-attachments/assets/1cdc18d2-eb56-4e03-a5ba-2b6342329a3e)
 
 ---
 
